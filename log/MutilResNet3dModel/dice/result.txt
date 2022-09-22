@@ -1,0 +1,16 @@
+## VGG3d
+best_validation_acc:  tensor(0.7889, device='cuda:0')
+epoch_of_best_validation_acc: [70/200]
+
+## my_Resnet3d
+*
+lr=1e-4
+best_validation_acc:  tensor(0.8125, device='cuda:0')
+epoch_of_best_validation_acc: [34/200]
+
+*3
+best_validation_acc:  tensor(0.8292, device='cuda:0')
+epoch_of_best_validation_acc: [131/200]
+
+
+

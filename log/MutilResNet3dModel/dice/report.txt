@@ -1,0 +1,62 @@
+## VGG3d
+
+*
+validation loss: 0.96036, validation accu: 0.80278
+              precision    recall  f1-score   support
+
+           0       0.75      0.67      0.71         9
+           1       0.44      0.41      0.43        39
+           2       0.88      0.89      0.88       188
+
+    accuracy                           0.81       236
+   macro avg       0.69      0.66      0.67       236
+weighted avg       0.80      0.81      0.80       236
+
+*
+validation loss: 1.56923, validation accu: 0.78889
+              precision    recall  f1-score   support
+
+           0       0.50      0.44      0.47         9
+           1       0.44      0.44      0.44        39
+           2       0.88      0.88      0.88       188
+
+    accuracy                           0.79       236
+   macro avg       0.60      0.59      0.60       236
+weighted avg       0.79      0.79      0.79       236
+
+## my_resNet
+*
+validation loss: 0.49333, validation accu: 0.81806
+              precision    recall  f1-score   support
+
+           0       0.75      0.67      0.71         9
+           1       0.45      0.38      0.42        39
+           2       0.88      0.91      0.90       188
+
+    accuracy                           0.82       236
+   macro avg       0.70      0.66      0.67       236
+weighted avg       0.81      0.82      0.81       236
+
+*
+validation loss: 1.29578, validation accu: 0.81250
+              precision    recall  f1-score   support
+
+           0       0.75      0.67      0.71         9
+           1       0.46      0.41      0.43        39
+           2       0.88      0.90      0.89       188
+
+    accuracy                           0.81       236
+   macro avg       0.70      0.66      0.68       236
+weighted avg       0.81      0.81      0.81       236
+
+* 3
+validation loss: 2.49151, validation accu: 0.82917
+              precision    recall  f1-score   support
+
+           0       0.56      0.56      0.56         9
+           1       0.55      0.44      0.49        39
+           2       0.89      0.93      0.91       188
+
+    accuracy                           0.83       236
+   macro avg       0.66      0.64      0.65       236
+weighted avg       0.82      0.83      0.82       236
